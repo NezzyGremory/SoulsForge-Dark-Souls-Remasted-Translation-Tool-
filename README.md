@@ -228,7 +228,7 @@ License information will be added as the project develops.
 
 **Forging a better way to translate.**
 
-Made with ❤️ by **Nezzy** & **Aaron**
+Made with ❤️ by **Nezzy** & **Aar0n**
 
 </div>
 ```
