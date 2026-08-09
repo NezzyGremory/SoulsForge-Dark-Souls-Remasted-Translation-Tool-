@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+config.json
+data/*.db
+input/*
+output/*
+backups/*
+logs/*
+!input/.gitkeep
+!output/.gitkeep
+!backups/.gitkeep
+!logs/.gitkeep
