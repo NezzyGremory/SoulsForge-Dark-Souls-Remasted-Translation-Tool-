@@ -27,6 +27,16 @@ Saat ini fokus utama project adalah membangun **fondasi dan sistem parser** sebe
 
 ---
 
+## 🎮 Planned Games
+
+Meskipun fokus utama saat ini difokuskan pada *Dark Souls Remastered*, kedepannya SoulForge dirancang untuk mendukung ekspansi penerjemahan game FromSoftware lainnya:
+
+1. **Dark Souls III**
+2. **Sekiro: Shadows Die Twice**
+3. **Elden Ring**
+
+---
+
 ## ✨ Planned Features
 
 Berikut adalah beberapa fitur yang direncanakan:
@@ -218,7 +228,7 @@ License information will be added as the project develops.
 
 **Forging a better way to translate.**
 
-Made with ❤️ by **Nezzy**
+Made with ❤️ by **Nezzy** & **Aaron**
 
 </div>
 ```
